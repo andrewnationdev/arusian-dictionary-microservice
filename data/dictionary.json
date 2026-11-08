@@ -61445,5 +61445,25 @@
         "translation": "You always work."
       }
     ]
+  },
+  {
+    "id": 5346,
+    "word": "ep",
+    "script": "Be",
+    "meaning": "wood, lumber",
+    "type": "root*",
+    "type_label": "Root",
+    "page": 179,
+    "root_id": 5346,
+    "examples": [
+      {
+        "script": [
+          ". rceP Be as cuP aut ."
+        ],
+        "romanization": "Tuwa pus u sa ep pekr.",
+        "translation": "The table is made of wood."
+      }
+      
+    ]
   }
 ]
