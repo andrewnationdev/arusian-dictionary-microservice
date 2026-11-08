@@ -27410,7 +27410,7 @@
     "type": "root*",
     "type_label": "Root (no verb forms)",
     "page": 81,
-    "root_id": 2359,
+    "root_id": 2358,
     "examples": [
       {
         "script": [
@@ -27429,7 +27429,7 @@
     "type": "root",
     "type_label": "Root",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2360,
@@ -27439,7 +27439,7 @@
     "type": "form",
     "type_label": "Derived form",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2361,
@@ -27449,7 +27449,7 @@
     "type": "vt-p",
     "type_label": "Verb, transitive, passive voice",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2362,
@@ -27459,7 +27459,7 @@
     "type": "form",
     "type_label": "Derived form",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2363,
@@ -27469,7 +27469,7 @@
     "type": "form",
     "type_label": "Derived form",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2364,
@@ -27479,7 +27479,7 @@
     "type": "compound",
     "type_label": "Compound",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2365,
@@ -27489,7 +27489,7 @@
     "type": "compound",
     "type_label": "Compound",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2366,
@@ -27499,7 +27499,7 @@
     "type": "compound",
     "type_label": "Compound",
     "page": 81,
-    "root_id": 2360
+    "root_id": 2359
   },
   {
     "id": 2367,
@@ -27509,7 +27509,7 @@
     "type": "compound",
     "type_label": "Compound",
     "page": 81,
-    "root_id": 2360,
+    "root_id": 2359,
     "examples": [
       {
         "script": [
