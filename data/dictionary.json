@@ -27406,7 +27406,7 @@
     "id": 2358,
     "word": "kruwa",
     "script": "aurk",
-    "meaning": "wood, lumber",
+    "meaning": "puddle",
     "type": "root*",
     "type_label": "Root (no verb forms)",
     "page": 81,
@@ -27414,10 +27414,10 @@
     "examples": [
       {
         "script": [
-          ". rmak url as u s,auumu urk ."
+          ". suP u ceub as aurk ."
         ],
-        "romanization": "Kru umuuweis u sa lru kamr.",
-        "translation": "The dog has a big tail."
+        "romanization": "Kruwa sa buwek u pus.",
+        "translation": "This is a puddle of mud."
       }
     ]
   },
