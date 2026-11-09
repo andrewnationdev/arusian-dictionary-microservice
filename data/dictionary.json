@@ -42939,7 +42939,7 @@
     "id": 3714,
     "word": "payau",
     "script": "oaeaP",
-    "meaning": "sight, scenery, view, opinion, bias",
+    "meaning": "sight, scenery, view, opinion, bias, to think",
     "type": "root",
     "type_label": "Root",
     "page": 126,
@@ -42954,6 +42954,22 @@
     "type_label": "Derived form",
     "page": 126,
     "root_id": 3714
+    "examples": [
+      {
+        "script": [
+          ". roaeaP os as u s,aeaua ,aak ."
+        ],
+        "romanization": "Kai auwayeis u sa so payauwr.",
+        "translation": "He/She thinks the art is pretty."
+      },
+      {
+        "script": [
+          ". roaeaP ul as u sauura ,at ."
+        ],
+        "romanization": "Tei aruuwas u sa lu payauwr.",
+        "translation": "I think that you are kind."
+      }
+    ]
   },
   {
     "id": 3716,
