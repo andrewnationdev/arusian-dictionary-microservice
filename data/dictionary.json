@@ -42953,7 +42953,7 @@
     "type": "form",
     "type_label": "Derived form",
     "page": 126,
-    "root_id": 3714
+    "root_id": 3714,
     "examples": [
       {
         "script": [
@@ -42961,7 +42961,7 @@
         ],
         "romanization": "Kai auwayeis u sa so payauwr.",
         "translation": "He/She thinks the art is pretty."
-      },
+      }
       {
         "script": [
           ". roaeaP ul as u sauura ,at ."
