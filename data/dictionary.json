@@ -9621,6 +9621,13 @@
         ],
         "romanization": "Otra sa vel deyauwr.",
         "translation": "The woman expresses a lot."
+      },
+      {
+        "script": [
+          ". suP u s,aeaua oaed ."
+        ],
+        "romanization": "Deyau auwayeis u pus.",
+        "translation": "This is a beautiful phrase."
       }
     ]
   },
@@ -43021,6 +43028,20 @@
         ],
         "romanization": "Lo-luwa sa so payauwr.",
         "translation": "He/She/It over looks the ocean."
+      },
+      {
+        "script": [
+          ". roaeaP os as u s,aeaua ,aak ."
+        ],
+        "romanization": "Kai auwayeis u sa so payauwr.",
+        "translation": "He/She thinks the art is pretty."
+      },
+      {
+        "script": [
+          ". roaeaP ul as u sauura ,at ."
+        ],
+        "romanization": "Tei aruuwas u sa lu payauwr.",
+        "translation": "I think that you are kind."
       }
     ]
   },
