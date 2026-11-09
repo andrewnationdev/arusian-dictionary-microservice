@@ -29246,7 +29246,7 @@
     "id": 2516,
     "word": "layauwei",
     "script": ",auaeal",
-    "meaning": "being cultivated, being tilled, being plowed, being prepared being developped",
+    "meaning": "being cultivated, being tilled, being plowed, being prepared, being developped",
     "type": "form",
     "type_label": "Derived form",
     "page": 87,
@@ -36750,7 +36750,7 @@
     "id": 3176,
     "word": "mrelse",
     "script": ",r SlerM",
-    "meaning": "not conformed by , not complied by, rebelled by",
+    "meaning": "not conformed by, not complied by, rebelled by",
     "type": "vt-p",
     "type_label": "Verb, transitive, passive voice",
     "page": 108,
@@ -42953,23 +42953,7 @@
     "type": "form",
     "type_label": "Derived form",
     "page": 126,
-    "root_id": 3714,
-    "examples": [
-      {
-        "script": [
-          ". roaeaP os as u s,aeaua ,aak ."
-        ],
-        "romanization": "Kai auwayeis u sa so payauwr.",
-        "translation": "He/She thinks the art is pretty."
-      },
-      {
-        "script": [
-          ". roaeaP ul as u sauura ,at ."
-        ],
-        "romanization": "Tei aruuwas u sa lu payauwr.",
-        "translation": "I think that you are kind."
-      }
-    ]
+    "root_id": 3714
   },
   {
     "id": 3716,
@@ -42985,7 +42969,7 @@
     "id": 3717,
     "word": "payauwa",
     "script": "auaeaP",
-    "meaning": "gazing, sight seeing",
+    "meaning": "gazing, sight seeing, opining",
     "type": "form",
     "type_label": "Derived form",
     "page": 126,
