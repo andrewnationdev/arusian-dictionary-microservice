@@ -33809,7 +33809,7 @@
     "id": 2910,
     "word": "ma",
     "script": "aM",
-    "meaning": "mother, father, nurture, aunt, uncle, grandparent, guardian",
+    "meaning": "mother, nurture, aunt, uncle, grandparent, guardian",
     "type": "root",
     "type_label": "Root",
     "page": 100,
@@ -48688,7 +48688,7 @@
         "script": [
           ". ot as as r,aas ,at as led aM ."
         ],
-        "romanization": "Ma-del sa tei sayr sasa to.",
+        "romanization": "Ta sa tei sayr sasa to.",
         "translation": "You are exactly like your father."
       },
       {
@@ -48696,7 +48696,7 @@
           ". ot as as os r,aas ul ."
         ],
         "romanization": "Lu sayr so sasa to.",
-        "translation": "You are exactly like your father."
+        "translation": "You are exactly like him/her/it."
       },
       {
         "script": [
@@ -48761,7 +48761,7 @@
         "script": [
           ". roaeas ,at as u s,at led aM ."
         ],
-        "romanization": "Ma-del teis u sa tei sayauwr.",
+        "romanization": "Ta teis u sa tei sayauwr.",
         "translation": "I look like your father."
       }
     ]
